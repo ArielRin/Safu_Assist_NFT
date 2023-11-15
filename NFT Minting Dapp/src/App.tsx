@@ -8,19 +8,39 @@ import {
 import { ConnectButton } from '@rainbow-me/rainbowkit';
 import { ethers } from 'ethers';
 import { useEffect, useState } from 'react';
-import { useAccount, useContractWrite } from 'wagmi';
+import { useAccount, useContractWrite, useContractRead } from 'wagmi';
 import abiFile from './abiFile.json';
 
 const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27';
 
-const getOpenSeaURL = (tokenId: string) =>
-  `https://testnets.opensea.io/assets/goerli/${CONTRACT_ADDRESS}/${tokenId}`;
+const getExplorerLink = () => `https://scan.maxxchain.org/token/${CONTRACT_ADDRESS}`;
+const getOpenSeaURL = (tokenId) => `https://testnets.opensea.io/assets/goerli/${CONTRACT_ADDRESS}/${tokenId}`;
 
 function App() {
   const contractConfig = {
     addressOrName: CONTRACT_ADDRESS,
     contractInterface: abiFile,
   };
+
+  const { read: fetchTotalSupply } = useContractRead({
+    ...contractConfig,
+    functionName: 'totalSupply',
+  });
+
+  const [totalSupply, setTotalSupply] = useState(null);
+
+  useEffect(() => {
+    const getTotalSupply = async () => {
+      try {
+        const supply = await fetchTotalSupply();
+        setTotalSupply(supply.toString());
+      } catch (error) {
+        console.error('Error fetching total supply:', error);
+      }
+    };
+
+    getTotalSupply();
+  }, [fetchTotalSupply]);
 
   const [imgURL, setImgURL] = useState('');
   const { writeAsync: mint, error: mintError } = useContractWrite({
@@ -30,7 +50,7 @@ function App() {
   const [mintLoading, setMintLoading] = useState(false);
   const { address } = useAccount();
   const isConnected = !!address;
-  const [mintedTokenId, setMintedTokenId] = useState<string | null>(null);
+  const [mintedTokenId, setMintedTokenId] = useState(null);
   const [mintAmount, setMintQuantity] = useState(1);
 
   const calculateTotalPrice = () => {
@@ -74,16 +94,47 @@ function App() {
       <Text marginTop='4'>SafuMaxx Reward NFT</Text>
       <Text marginTop='4'>Only 200 for purchase</Text>
       <Text marginTop='4'>2500PWR per NFT</Text>
+      <Text marginTop='4'>Total Supply: {totalSupply}</Text>
+
+      <Text marginTop='4'>
+        {' '}
+        <Link
+          isExternal
+          href={getExplorerLink()}
+          color='blue'
+          textDecoration='underline'
+        >
+          {CONTRACT_ADDRESS}
+        </Link>
+      </Text>
 
       <Box marginTop='4' display='flex' alignItems='center'>
         <Button
+                  marginTop='6'
+                  textColor='white'
+                  bg='blue.500'
+                  _hover={{
+                    bg: 'blue.700',
+                  }}
           onClick={handleDecrement}
           disabled={!isConnected || mintLoading || mintAmount === 1}
         >
           -
         </Button>
-        <Text marginX='2'>{mintAmount}</Text>
+
+        <Text marginX='4' textAlign='center' fontSize='lg'>
+          {mintAmount}
+        </Text>
+
         <Button
+
+          marginTop='6'
+          textColor='white'
+          bg='blue.500'
+          _hover={{
+            bg: 'blue.700',
+          }}
+
           onClick={handleIncrement}
           disabled={!isConnected || mintLoading || mintAmount === 5}
         >
