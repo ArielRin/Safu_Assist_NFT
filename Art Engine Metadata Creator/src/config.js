@@ -20,11 +20,10 @@ const solanaMetadata = {
     },
   ],
 };
-//modify to have clear layers to 200 creating metadata and rarities
-// If you have selected Solana then the collection starts from 0 automatically
+//modify to have clear layers to 200 creating metadata and rarities as requested
 const layerConfigurations = [
   {
-    growEditionSizeTo: 100,
+    growEditionSizeTo: 200,
     layersOrder: [
       { name: "Background" },
       { name: "Image" },
