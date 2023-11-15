@@ -1,0 +1,4602 @@
+[
+  {
+    "name": "SafuMaxx Reward NFT #1",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/1.png",
+    "dna": "04c8bbe2982a52e00bd0c0074f9aff26baba5854",
+    "edition": 1,
+    "date": 1700012446207,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #2",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/2.png",
+    "dna": "f3a8bbc00b2e63253de8ac2f74ddad4d7490210c",
+    "edition": 2,
+    "date": 1700012446436,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #3",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/3.png",
+    "dna": "b2625ec8330d22d0fd91bc8ec5539e07de6ce467",
+    "edition": 3,
+    "date": 1700012446661,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #4",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/4.png",
+    "dna": "5ae1ac3ab6222df1a34a28fbfa46892c4c5bb229",
+    "edition": 4,
+    "date": 1700012446780,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #5",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/5.png",
+    "dna": "33087219ecc822e8fe8989ff0c725c0d7c513ad5",
+    "edition": 5,
+    "date": 1700012446904,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #6",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/6.png",
+    "dna": "2f3f38db470f3b9189d846495cd6e8534aa13946",
+    "edition": 6,
+    "date": 1700012447101,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #7",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/7.png",
+    "dna": "2f3d8633d51353ac2fa3ce1a3c92ad7882da3c51",
+    "edition": 7,
+    "date": 1700012447216,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #8",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/8.png",
+    "dna": "a294ae9cd59f85e0a8452f98b4db55f85aa6c860",
+    "edition": 8,
+    "date": 1700012447401,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #9",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/9.png",
+    "dna": "3a9d7f0a72548da6b24b57ca22b3a0d823460ade",
+    "edition": 9,
+    "date": 1700012447595,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #10",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/10.png",
+    "dna": "bcb3610423c18b54a55b1416cc8481f646de1721",
+    "edition": 10,
+    "date": 1700012447710,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #11",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/11.png",
+    "dna": "746e475ca049973a79dda8dd74308c0ad8dfb071",
+    "edition": 11,
+    "date": 1700012447895,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #12",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/12.png",
+    "dna": "652b77c0ea3a4b716f2385e9ee550347647e67a2",
+    "edition": 12,
+    "date": 1700012448083,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #13",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/13.png",
+    "dna": "3f4e4188aa071cdf2a656cc277861beb942c02d7",
+    "edition": 13,
+    "date": 1700012448198,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #14",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/14.png",
+    "dna": "6b8af39dbe3cf35e0225e464e3cf07b66bf36c3a",
+    "edition": 14,
+    "date": 1700012448317,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #15",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/15.png",
+    "dna": "da302a66384c11749f5bffe5cd136879be526d7a",
+    "edition": 15,
+    "date": 1700012448601,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #16",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/16.png",
+    "dna": "3060df79d89315f6e40c57eb860587ec6de489a3",
+    "edition": 16,
+    "date": 1700012448715,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #17",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/17.png",
+    "dna": "5b9a61602b416efc0940be83b4792c1f07e92740",
+    "edition": 17,
+    "date": 1700012448828,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #18",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/18.png",
+    "dna": "2489f350cba71cfb7dd897d726b8af25beee8ee8",
+    "edition": 18,
+    "date": 1700012449102,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #19",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/19.png",
+    "dna": "12676a0fef804ff8806490ff89f273d25e6e471e",
+    "edition": 19,
+    "date": 1700012449290,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #20",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/20.png",
+    "dna": "1fe54cf5c9057e052984eab443ee83a4ae1fb4dd",
+    "edition": 20,
+    "date": 1700012449408,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #21",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/21.png",
+    "dna": "867bcfaf5d984c0d7c1a03f404a565e0cfc20e4b",
+    "edition": 21,
+    "date": 1700012449527,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #22",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/22.png",
+    "dna": "f6b97b12e02338907334450c17894201aa64f042",
+    "edition": 22,
+    "date": 1700012449644,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #23",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/23.png",
+    "dna": "f9dd72e66daa3b2b92065d9efcd23382a3430e43",
+    "edition": 23,
+    "date": 1700012449829,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #24",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/24.png",
+    "dna": "4cce215145de60b861c00381f19d715282c10bde",
+    "edition": 24,
+    "date": 1700012449945,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #25",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/25.png",
+    "dna": "ed448b5daf98b8277d262be5e5283ce6e6f1f5e3",
+    "edition": 25,
+    "date": 1700012450060,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #26",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/26.png",
+    "dna": "21b3c503d69269cd46f09d0fe231b657d432f7eb",
+    "edition": 26,
+    "date": 1700012450252,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #27",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/27.png",
+    "dna": "8adf9c8b1d35cf9a2e3284db2c2726b0961b51b1",
+    "edition": 27,
+    "date": 1700012450375,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #28",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/28.png",
+    "dna": "e1de1ad83347e8c38b9672b24865543bd053b9f8",
+    "edition": 28,
+    "date": 1700012450561,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #29",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/29.png",
+    "dna": "d2efd0939663148610b5d96b50d856c26c7f8d17",
+    "edition": 29,
+    "date": 1700012450747,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #30",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/30.png",
+    "dna": "e418b8c78515976af56af849a361987b6da53413",
+    "edition": 30,
+    "date": 1700012450935,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #31",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/31.png",
+    "dna": "ebbccfce40efce2e67a541260532bec397417aad",
+    "edition": 31,
+    "date": 1700012451049,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #32",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/32.png",
+    "dna": "4e2fae94d89bef06af90f339055f595d7a48ef4b",
+    "edition": 32,
+    "date": 1700012451238,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #33",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/33.png",
+    "dna": "e2c8004fddcc08a566d5eaa313e4a4196d0a66bf",
+    "edition": 33,
+    "date": 1700012451431,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #34",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/34.png",
+    "dna": "a85ed905ba5bc17eb2b1e6811e97fd1a72a38ff3",
+    "edition": 34,
+    "date": 1700012451545,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #35",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/35.png",
+    "dna": "79142ddb8aae8c9752f29edbab5f9b8feb40d784",
+    "edition": 35,
+    "date": 1700012451660,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #36",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/36.png",
+    "dna": "6a191c754097c9b4b0ad18976a4a5862c90a7f44",
+    "edition": 36,
+    "date": 1700012451775,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #37",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/37.png",
+    "dna": "09884f0d72cffcc37548659d91915131db401bd7",
+    "edition": 37,
+    "date": 1700012451961,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #38",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/38.png",
+    "dna": "a59d9271a301c3c94fa581ff401e74dd5f849d38",
+    "edition": 38,
+    "date": 1700012452079,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #39",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/39.png",
+    "dna": "ac0249079aa5d9b2d889d7240a44065d6c18c1e8",
+    "edition": 39,
+    "date": 1700012452200,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #40",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/40.png",
+    "dna": "eb3bbe75ce98ba400d91f5039f81f2bb0689fdd4",
+    "edition": 40,
+    "date": 1700012452315,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #41",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/41.png",
+    "dna": "67cf1401289cb3c15f3c193a25c9d9d5119cd302",
+    "edition": 41,
+    "date": 1700012452428,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #42",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/42.png",
+    "dna": "4c15e9d403b977d28c8fb1cda0942820eb053c61",
+    "edition": 42,
+    "date": 1700012452543,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #43",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/43.png",
+    "dna": "14ddade88c41619cef43414517ba8731f8eca727",
+    "edition": 43,
+    "date": 1700012452731,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #44",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/44.png",
+    "dna": "5df0314d33dc82da39f0d12c668ed5e31276e6ca",
+    "edition": 44,
+    "date": 1700012452921,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #45",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/45.png",
+    "dna": "a1713a94e0a74412005e2ab675afde2ca265fb8a",
+    "edition": 45,
+    "date": 1700012453114,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #46",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/46.png",
+    "dna": "58ba4645424b728e48edfceb35c0df53805962e0",
+    "edition": 46,
+    "date": 1700012453300,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #47",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/47.png",
+    "dna": "71fcf8931790cdb19f48eb57730f89b58a8111e0",
+    "edition": 47,
+    "date": 1700012453484,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #48",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/48.png",
+    "dna": "7db26c1371835507ab1eb03b3f73e1d5c9262a24",
+    "edition": 48,
+    "date": 1700012453599,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #49",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/49.png",
+    "dna": "c46a91b1c9a128386aba9e413057278098bcb0af",
+    "edition": 49,
+    "date": 1700012453786,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #50",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/50.png",
+    "dna": "f34edd40b00973871c6f40183e43615cf8dd0445",
+    "edition": 50,
+    "date": 1700012453905,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #51",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/51.png",
+    "dna": "c27f11d9ff50e0625c2188885632db550937379a",
+    "edition": 51,
+    "date": 1700012454102,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #52",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/52.png",
+    "dna": "dcced03cbf10a1a3c0c856078b7f7545663894a9",
+    "edition": 52,
+    "date": 1700012454287,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #53",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/53.png",
+    "dna": "f28f3ccb812c4ca29365915065b0b24961e904d1",
+    "edition": 53,
+    "date": 1700012454474,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #54",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/54.png",
+    "dna": "83bc574d254cc4f73c5bbdd05901c3a64aff6b03",
+    "edition": 54,
+    "date": 1700012454661,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #55",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/55.png",
+    "dna": "48ddb4227778ee2d45dfb432350d5cbe90d09f69",
+    "edition": 55,
+    "date": 1700012454775,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #56",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/56.png",
+    "dna": "dd95c0339f8f7d5b0eeae8a70610edb493572c23",
+    "edition": 56,
+    "date": 1700012454893,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #57",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/57.png",
+    "dna": "83f67cafd48191f994ac563107fb50e072cbb982",
+    "edition": 57,
+    "date": 1700012455167,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #58",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/58.png",
+    "dna": "0a9af5a7828612557d568ec684b4eba54e7ebc42",
+    "edition": 58,
+    "date": 1700012455353,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #59",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/59.png",
+    "dna": "e4e5997a9002bab44b5d59452afa2a36f410be9b",
+    "edition": 59,
+    "date": 1700012455467,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #60",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/60.png",
+    "dna": "294a530e73990ccbae37aaffc0e6c3270d48fc3a",
+    "edition": 60,
+    "date": 1700012455582,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #61",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/61.png",
+    "dna": "c3919591be94642009ba82a419b345fc90602e66",
+    "edition": 61,
+    "date": 1700012455696,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #62",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/62.png",
+    "dna": "62cb5cc3a17094b793a2724738250e65158f6514",
+    "edition": 62,
+    "date": 1700012455813,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #63",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/63.png",
+    "dna": "3884cadcb9743569a7753cf4513e6a3d5804a3ec",
+    "edition": 63,
+    "date": 1700012456091,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #64",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/64.png",
+    "dna": "cafdbc146da586e25dbfc72f17b622ee2a5eef45",
+    "edition": 64,
+    "date": 1700012456276,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #65",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/65.png",
+    "dna": "4c4dbee2860756905305b29bdd9f904e6d777cd6",
+    "edition": 65,
+    "date": 1700012456469,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Legendary"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #66",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/66.png",
+    "dna": "ddc99acd8907b5ff3ac44439764beb7ff5a9ce1e",
+    "edition": 66,
+    "date": 1700012456585,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #67",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/67.png",
+    "dna": "0fedde064235596c6edd49374c26c8bc82d1bc02",
+    "edition": 67,
+    "date": 1700012456771,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #68",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/68.png",
+    "dna": "4e3192f978316e7bfca502ac09bf637002286744",
+    "edition": 68,
+    "date": 1700012456889,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #69",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/69.png",
+    "dna": "36ff0543dc99189809c0d02e59880ddff11fee2b",
+    "edition": 69,
+    "date": 1700012457010,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #70",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/70.png",
+    "dna": "10a0beebcb4d4980809af8d4a77bf3049925d83a",
+    "edition": 70,
+    "date": 1700012457126,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #71",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/71.png",
+    "dna": "9feb8b9093ec3b58787bea604429de7166a14227",
+    "edition": 71,
+    "date": 1700012457313,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #72",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/72.png",
+    "dna": "8df763f2289dcc01018f030887bed1cb7ba2d6d9",
+    "edition": 72,
+    "date": 1700012457428,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #73",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/73.png",
+    "dna": "0745aa08e7efad01a978449549acf578577bcaf8",
+    "edition": 73,
+    "date": 1700012457614,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #74",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/74.png",
+    "dna": "334f37993bc9b4f5ea7f122430634f8c33a51517",
+    "edition": 74,
+    "date": 1700012457732,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #75",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/75.png",
+    "dna": "3251fc1cf41e64c57c9b42b9b47f002e54440e21",
+    "edition": 75,
+    "date": 1700012457924,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #76",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/76.png",
+    "dna": "3fde3ad4453d8a8a7a484cb8e3acebb288446adc",
+    "edition": 76,
+    "date": 1700012458038,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #77",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/77.png",
+    "dna": "02e3159426e4f7b1c795d3c0f35f7bfef4479d78",
+    "edition": 77,
+    "date": 1700012458225,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #78",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/78.png",
+    "dna": "94ed5e715a14675d63d213cdbed9ab147e0ad44e",
+    "edition": 78,
+    "date": 1700012458340,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #79",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/79.png",
+    "dna": "cdb31be57e16b5f3c8aa6bdc57ad7d8fe41a57ac",
+    "edition": 79,
+    "date": 1700012458526,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #80",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/80.png",
+    "dna": "0974cf61482e5c1d2cd1042b1beb573f783404bb",
+    "edition": 80,
+    "date": 1700012458643,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #81",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/81.png",
+    "dna": "52c2ac95aed8e8ec415c450bdc2084fd00e836d7",
+    "edition": 81,
+    "date": 1700012458764,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #82",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/82.png",
+    "dna": "6230e619b490b3b7ed58c43dcef299fcf373becf",
+    "edition": 82,
+    "date": 1700012458949,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #83",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/83.png",
+    "dna": "a2af3e7d31edb6ce2bb69180d8975c207155730d",
+    "edition": 83,
+    "date": 1700012459135,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #84",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/84.png",
+    "dna": "0fa8f2a7188312d1cdb3046ae023d36dabbbf084",
+    "edition": 84,
+    "date": 1700012459251,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #85",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/85.png",
+    "dna": "00389d2f29062f24802342fcce07652038717d1d",
+    "edition": 85,
+    "date": 1700012459437,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #86",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/86.png",
+    "dna": "054dcdc98596413431f32fd21aefa5ac92518bb6",
+    "edition": 86,
+    "date": 1700012459554,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #87",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/87.png",
+    "dna": "9c3eca13a19eeeb3f7a4b3cacc1f8a28e059dcb0",
+    "edition": 87,
+    "date": 1700012459746,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #88",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/88.png",
+    "dna": "b90c6d5245d2f3540fa85c3bb4092d015da929e0",
+    "edition": 88,
+    "date": 1700012459931,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #89",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/89.png",
+    "dna": "5deae04a674551b51523ada02886079ebbe74272",
+    "edition": 89,
+    "date": 1700012460118,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #90",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/90.png",
+    "dna": "52a83922d6646244bd801c08ff14c224f40db447",
+    "edition": 90,
+    "date": 1700012460306,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #91",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/91.png",
+    "dna": "1c7b10c3cba3e1aed981f18902ba9b0ff4b70cbe",
+    "edition": 91,
+    "date": 1700012460492,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #92",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/92.png",
+    "dna": "d7c7dda4303eb784ca7e2af01693e600fb4287f6",
+    "edition": 92,
+    "date": 1700012460680,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #93",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/93.png",
+    "dna": "fdbca44fd1525af267ba5a9cc42fcd6f1ce94d20",
+    "edition": 93,
+    "date": 1700012460877,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #94",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/94.png",
+    "dna": "4929852d9efda565a9a45bbba8593d7fb97e3693",
+    "edition": 94,
+    "date": 1700012460992,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #95",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/95.png",
+    "dna": "dbba8cf9d63164c738832bae0c62e33a189e2949",
+    "edition": 95,
+    "date": 1700012461178,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #96",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/96.png",
+    "dna": "ebf7f76e1d872806450810740d0f62400b77f5bc",
+    "edition": 96,
+    "date": 1700012461364,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #97",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/97.png",
+    "dna": "74a587b616d8b1ee46f861c2e3db0d136d0b7801",
+    "edition": 97,
+    "date": 1700012461479,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #98",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/98.png",
+    "dna": "9d25163d5fa72099b3ec54c817f39c8a7baf0a81",
+    "edition": 98,
+    "date": 1700012461668,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #99",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/99.png",
+    "dna": "d2eb160ed5ae7520cc8822fb06d59a4bc560b3d9",
+    "edition": 99,
+    "date": 1700012461942,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #100",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/100.png",
+    "dna": "ce30bedc5c7c5b339694ceb62a019be10244f037",
+    "edition": 100,
+    "date": 1700012462128,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #101",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/101.png",
+    "dna": "6dcd691bc3cffb75ad4dc448ddbdc12940c1239d",
+    "edition": 101,
+    "date": 1700012462242,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #102",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/102.png",
+    "dna": "75915265b8cf9ab62373e10916270d58ab26bce9",
+    "edition": 102,
+    "date": 1700012462357,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #103",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/103.png",
+    "dna": "77f375c7b36d8fae76efc4ce6ef90062ba5843aa",
+    "edition": 103,
+    "date": 1700012462472,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #104",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/104.png",
+    "dna": "1a3191ec51cbb83ea3709509f4c40bbf0fdb578b",
+    "edition": 104,
+    "date": 1700012462587,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #105",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/105.png",
+    "dna": "cc75c8d286b2a9e293d8fadb4b7bced0799754e6",
+    "edition": 105,
+    "date": 1700012462780,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #106",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/106.png",
+    "dna": "233237752e5bf0f815b165825381b4b188c7e87a",
+    "edition": 106,
+    "date": 1700012462965,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #107",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/107.png",
+    "dna": "d13dad1701cdcb998567beaa11b2f89f31d50634",
+    "edition": 107,
+    "date": 1700012463079,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #108",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/108.png",
+    "dna": "af7d9fac2475adb148e8de2d23528be5d458a574",
+    "edition": 108,
+    "date": 1700012463193,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #109",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/109.png",
+    "dna": "e24eea43e86005353696dbcbb4ba9a64edeb882a",
+    "edition": 109,
+    "date": 1700012463378,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #110",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/110.png",
+    "dna": "8ef3785546149df25e55f3c1b20a29e2de1609ad",
+    "edition": 110,
+    "date": 1700012463492,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #111",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/111.png",
+    "dna": "8faba89654dd587073e173493934b6a8c3eb8467",
+    "edition": 111,
+    "date": 1700012463613,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Legendary"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #112",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/112.png",
+    "dna": "6dc525998f2e0155297cfa48ae502b53cf0a2067",
+    "edition": 112,
+    "date": 1700012463728,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #113",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/113.png",
+    "dna": "264d79091fc3a05817a5bfeb7c3db64d5b945ba7",
+    "edition": 113,
+    "date": 1700012463842,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #114",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/114.png",
+    "dna": "8155bdbd6b354411cabd02775fcc2f0d747088fb",
+    "edition": 114,
+    "date": 1700012463956,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #115",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/115.png",
+    "dna": "9ca4acd07faee9b5963decdcf49661fa5ea7bcbc",
+    "edition": 115,
+    "date": 1700012464142,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #116",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/116.png",
+    "dna": "2748af44cda91f2e555c7668c920e41402853551",
+    "edition": 116,
+    "date": 1700012464328,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #117",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/117.png",
+    "dna": "ef9be0d690a5a8fc142fe8a7d9b0087748192b82",
+    "edition": 117,
+    "date": 1700012464451,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Legendary"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #118",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/118.png",
+    "dna": "7e4ff5dd0ba24453487ed6a2ce90b1d6d3b68b04",
+    "edition": 118,
+    "date": 1700012464638,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #119",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/119.png",
+    "dna": "1a2bb6ffdbf4fbd5573dacf473c55df1626bd203",
+    "edition": 119,
+    "date": 1700012464826,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #120",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/120.png",
+    "dna": "101c4f228aa805eb8bf606b73ed18bf66cab771b",
+    "edition": 120,
+    "date": 1700012465012,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #121",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/121.png",
+    "dna": "d0e0ce62c636b58bbb2d36fe7761475ffabb686c",
+    "edition": 121,
+    "date": 1700012465199,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #122",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/122.png",
+    "dna": "214505ae1e8955b606b8c5a30b0796644982792a",
+    "edition": 122,
+    "date": 1700012465385,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #123",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/123.png",
+    "dna": "e499a97f473145ea38d5511c07fabac3770a7d63",
+    "edition": 123,
+    "date": 1700012465579,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #124",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/124.png",
+    "dna": "4ebb3df5ea5e1f2f74b32fe2b34156e5c8ff9677",
+    "edition": 124,
+    "date": 1700012465765,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #125",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/125.png",
+    "dna": "c1c9fc890bda06b1abd4d9dce6d2026860696af3",
+    "edition": 125,
+    "date": 1700012465880,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #126",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/126.png",
+    "dna": "3f50d6f837e5deec0db6daceaf579583eb1b0447",
+    "edition": 126,
+    "date": 1700012466067,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #127",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/127.png",
+    "dna": "4019da8573bfca9cce05c59ca8a5ab89f3103d89",
+    "edition": 127,
+    "date": 1700012466182,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #128",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/128.png",
+    "dna": "521f516290a4c962f7074c6c47a6dfed47e3a930",
+    "edition": 128,
+    "date": 1700012466297,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #129",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/129.png",
+    "dna": "8b4dff17442c680b4269b01b6b2f94c3c513f7a3",
+    "edition": 129,
+    "date": 1700012466492,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #130",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/130.png",
+    "dna": "d817e862ae5c5d549dbde2fa54f9ba6e39f6eea1",
+    "edition": 130,
+    "date": 1700012466679,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #131",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/131.png",
+    "dna": "02f50dac38bf367abba04a805bf12af818e5244a",
+    "edition": 131,
+    "date": 1700012466794,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #132",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/132.png",
+    "dna": "7f626b44e648e2600cd4edf4488dee6020fa399f",
+    "edition": 132,
+    "date": 1700012466981,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #133",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/133.png",
+    "dna": "25e7796935bd93f4f69546d7b555c816c99e6081",
+    "edition": 133,
+    "date": 1700012467166,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #134",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/134.png",
+    "dna": "6b7181dc0a0d21cb139c3d17a70221b25a37d091",
+    "edition": 134,
+    "date": 1700012467353,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #135",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/135.png",
+    "dna": "c00330bf7ff86ea73320da6ff8ec7d0973fa677d",
+    "edition": 135,
+    "date": 1700012467549,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #136",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/136.png",
+    "dna": "86dbd9472c0603a161c6289db064436dc559c71f",
+    "edition": 136,
+    "date": 1700012467664,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #137",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/137.png",
+    "dna": "9ab1908d622ef032241f7cf64601270f70846746",
+    "edition": 137,
+    "date": 1700012467778,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #138",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/138.png",
+    "dna": "3cff13025805c5b9401bfd059e0e0d99e6aa263f",
+    "edition": 138,
+    "date": 1700012467966,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #139",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/139.png",
+    "dna": "62e23cc9181ddbc4ab7d46511ca8928aeab393e7",
+    "edition": 139,
+    "date": 1700012468081,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #140",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/140.png",
+    "dna": "01a3a32290ca94d2bd9875bb3a60b1812bbbf53e",
+    "edition": 140,
+    "date": 1700012468195,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #141",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/141.png",
+    "dna": "c2dd633458d28112ed4d1ea08492630035f822c0",
+    "edition": 141,
+    "date": 1700012468316,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #142",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/142.png",
+    "dna": "26db84b94951d9e7caffbbed39e02a92d4998cac",
+    "edition": 142,
+    "date": 1700012468431,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #143",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/143.png",
+    "dna": "71351fba43f345d737d25f426600eb553df24a3a",
+    "edition": 143,
+    "date": 1700012468545,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #144",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/144.png",
+    "dna": "f97c07910a2ed5d09be0717e20dae4fe748bc5da",
+    "edition": 144,
+    "date": 1700012468731,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #145",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/145.png",
+    "dna": "faeacb5f1aafb64c04817674724d4cd56e8f1334",
+    "edition": 145,
+    "date": 1700012468845,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #146",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/146.png",
+    "dna": "40fbee411c378f2bd94bea207c068594e156a237",
+    "edition": 146,
+    "date": 1700012468960,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #147",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/147.png",
+    "dna": "935d7a72f6c9b496b15765334f2040a0ad1f07bb",
+    "edition": 147,
+    "date": 1700012469082,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #148",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/148.png",
+    "dna": "9fd61b28927626567c430744c1a50b8e45c535b4",
+    "edition": 148,
+    "date": 1700012469199,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #149",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/149.png",
+    "dna": "012cd20d313d5b30e30678b185185e84446614e7",
+    "edition": 149,
+    "date": 1700012469385,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #150",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/150.png",
+    "dna": "0e45f7d5c287187c5a654730e133fe9c0ae3e916",
+    "edition": 150,
+    "date": 1700012469571,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #151",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/151.png",
+    "dna": "a761feecd0c730c647bf6dadd71e1238d44373ed",
+    "edition": 151,
+    "date": 1700012469686,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #152",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/152.png",
+    "dna": "0cca3ba4748a3191e27f3c675161d4aa66ba8281",
+    "edition": 152,
+    "date": 1700012469873,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #153",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/153.png",
+    "dna": "33feacb06266ec090c2376a981a4835843158e2e",
+    "edition": 153,
+    "date": 1700012470067,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #154",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/154.png",
+    "dna": "d764dddad5f5a86c1dab085b83025d9c2ae77148",
+    "edition": 154,
+    "date": 1700012470182,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #155",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/155.png",
+    "dna": "fa443568cfb35320142d948f7e0dc99ea9af708a",
+    "edition": 155,
+    "date": 1700012470369,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #156",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/156.png",
+    "dna": "0d51032e2ad5ab1d7280b1891e9cbb15ce018d68",
+    "edition": 156,
+    "date": 1700012470558,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #157",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/157.png",
+    "dna": "59c1bfb0a5e3bbad51184c7dda0bb8cf17ec8099",
+    "edition": 157,
+    "date": 1700012470673,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #158",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/158.png",
+    "dna": "d5ed51203d2c24df36a3d2b60bf2e16837259569",
+    "edition": 158,
+    "date": 1700012470787,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #159",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/159.png",
+    "dna": "0c2cdbabb4d713ad3c329da984cbeaa14f4ef55d",
+    "edition": 159,
+    "date": 1700012471067,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #160",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/160.png",
+    "dna": "4f80b5c46cd1d3032dd10fef4dc9239def2cc0de",
+    "edition": 160,
+    "date": 1700012471254,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #161",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/161.png",
+    "dna": "ec128559a3f204270918cb9cb4f781d4d832c7e6",
+    "edition": 161,
+    "date": 1700012471442,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #162",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/162.png",
+    "dna": "600d6f757b969abd86158c8cf57ae8d617c5d424",
+    "edition": 162,
+    "date": 1700012471557,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #163",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/163.png",
+    "dna": "45965a4603bad7a615632ba2076cda93d592fc0e",
+    "edition": 163,
+    "date": 1700012471672,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #164",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/164.png",
+    "dna": "e3895a754f7b42de5ceb7c8b3fa97bc7d5f7ecf9",
+    "edition": 164,
+    "date": 1700012471859,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #165",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/165.png",
+    "dna": "f9738b4571188ce5488fe6fff1130ed8d2ab6c08",
+    "edition": 165,
+    "date": 1700012472051,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #166",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/166.png",
+    "dna": "01783db32e7963de0d44c56838499f02547a8c3f",
+    "edition": 166,
+    "date": 1700012472166,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #167",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/167.png",
+    "dna": "21c96fd90e2b97887670499f19745382ea551359",
+    "edition": 167,
+    "date": 1700012472352,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #168",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/168.png",
+    "dna": "4429babda367dc066fbc1e52f5775156d5460dfd",
+    "edition": 168,
+    "date": 1700012472538,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #169",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/169.png",
+    "dna": "633d30e84e022a04c16183d7061559b13d8b1ba6",
+    "edition": 169,
+    "date": 1700012472808,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #170",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/170.png",
+    "dna": "41dd1e62486b9c2438428fa9ab5834b14cef8295",
+    "edition": 170,
+    "date": 1700012472922,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #171",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/171.png",
+    "dna": "2a011737e09a2b1f14a0b447f5fc40cf536771ef",
+    "edition": 171,
+    "date": 1700012473040,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #172",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/172.png",
+    "dna": "687b71c3d4c30ed58240592007e2796eec76b2c5",
+    "edition": 172,
+    "date": 1700012473228,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #173",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/173.png",
+    "dna": "f730e33eef6c8fe0150d8eab61dc5ceb3dd8577c",
+    "edition": 173,
+    "date": 1700012473342,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #174",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/174.png",
+    "dna": "cc2338a9b6bd228298f59fe4f1970d5a1079fe10",
+    "edition": 174,
+    "date": 1700012473531,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Legendary"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #175",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/175.png",
+    "dna": "f84673c08c23ba1e39688fc8312671c9943e11ab",
+    "edition": 175,
+    "date": 1700012473718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #176",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/176.png",
+    "dna": "2567492d02ee6c115586ff99a8a0372994a532a0",
+    "edition": 176,
+    "date": 1700012473904,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #177",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/177.png",
+    "dna": "4c4f5f83882fa0ca93c37ef7bb71b863fb2d70dc",
+    "edition": 177,
+    "date": 1700012474093,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #178",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/178.png",
+    "dna": "c4d6947910fefed0d9700235bd4d8fdc2f227976",
+    "edition": 178,
+    "date": 1700012474281,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #179",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/179.png",
+    "dna": "bf6620193f287e7922db21059cf32f903266c7bf",
+    "edition": 179,
+    "date": 1700012474396,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #180",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/180.png",
+    "dna": "ae0dd33eea21f9eda58e15d796241311cfcfa3f1",
+    "edition": 180,
+    "date": 1700012474511,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #181",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/181.png",
+    "dna": "9247f086dd501e28a6342ea8dcfa163f3ca9ee88",
+    "edition": 181,
+    "date": 1700012474626,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #182",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/182.png",
+    "dna": "9c3602014b46b24413c88515f88a869ab86d7e33",
+    "edition": 182,
+    "date": 1700012474812,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #183",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/183.png",
+    "dna": "f95825557f1de94c65e9ed89a330c1a1621f0492",
+    "edition": 183,
+    "date": 1700012475003,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #184",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/184.png",
+    "dna": "0d015514909914f934cbecabe8c7db0dfd993bb8",
+    "edition": 184,
+    "date": 1700012475190,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #185",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/185.png",
+    "dna": "20169d942446ab99d99a2b215b22809fe088f8b9",
+    "edition": 185,
+    "date": 1700012475463,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #186",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/186.png",
+    "dna": "4cf5de2684a0e84e11aba7e11d5ac1eb2244bf84",
+    "edition": 186,
+    "date": 1700012475581,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #187",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/187.png",
+    "dna": "a0aba791d18cd462d1f4053832d1bdd74c9a3269",
+    "edition": 187,
+    "date": 1700012475768,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #188",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/188.png",
+    "dna": "68cacf150f9e585bdf26866a659cdba16fd3bd28",
+    "edition": 188,
+    "date": 1700012475957,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #189",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/189.png",
+    "dna": "571ca0d902c1e57eafc8671c652023b3754ec198",
+    "edition": 189,
+    "date": 1700012476079,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Iron"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #190",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/190.png",
+    "dna": "bdb953b59c894741f115b4aa1121f6300965f308",
+    "edition": 190,
+    "date": 1700012476268,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #191",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/191.png",
+    "dna": "719094408757b1779df903f5699078cae903623c",
+    "edition": 191,
+    "date": 1700012476383,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Original"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #192",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/192.png",
+    "dna": "e283192ed950e38eabf13b6a938449c4def5aef8",
+    "edition": 192,
+    "date": 1700012476569,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #193",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/193.png",
+    "dna": "b37b7cc3dabb37e7fdf4ba8cc527f9f17f32851b",
+    "edition": 193,
+    "date": 1700012476684,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #194",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/194.png",
+    "dna": "18787913bcb1416c9ab72bf1c70e230ede31c003",
+    "edition": 194,
+    "date": 1700012476799,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #195",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/195.png",
+    "dna": "66ec0745d349d78731fed132f9d35c85be16bd19",
+    "edition": 195,
+    "date": 1700012476917,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Titanium"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #196",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/196.png",
+    "dna": "76139f6408c4f946ef50c7cc4c56907cb561c280",
+    "edition": 196,
+    "date": 1700012477103,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Bronze"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #197",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/197.png",
+    "dna": "216353756503b6c3e767c51e7cd7d2e680624f5a",
+    "edition": 197,
+    "date": 1700012477290,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #198",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/198.png",
+    "dna": "6e5f4434105bcfc7bbd7940c8c60fd464327ac20",
+    "edition": 198,
+    "date": 1700012477477,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #199",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/199.png",
+    "dna": "be43d81ac1763b28a7449684f83d174165215024",
+    "edition": 199,
+    "date": 1700012477663,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT1"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Steel"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  },
+  {
+    "name": "SafuMaxx Reward NFT #200",
+    "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
+    "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/200.png",
+    "dna": "e2fb33561e7a35aae9072595a2060fdc2e7bd1ba",
+    "edition": 200,
+    "date": 1700012477779,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Image",
+        "value": "SafuMaxxRewardNFT2"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "ArielRyn Art Generation"
+  }
+]
