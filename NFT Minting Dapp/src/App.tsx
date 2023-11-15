@@ -11,7 +11,8 @@ import './styles.css'; // Reference to the external CSS file
 import backgroundGif from './bkg2.gif';
 import yourImage from './logo.png'; // Import your image file
 
-const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27';
+// const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27'; // test address 1 pwr ea
+const CONTRACT_ADDRESS = '0x3121ff90D86128b0dCd2524469f0Aa3E1D5FdB63'; // final address 2500 pwr ea
 const getExplorerLink = () => `https://scan.maxxchain.org/token/${CONTRACT_ADDRESS}`;
 const getOpenSeaURL = () => `https://testnets.opensea.io/assets/goerli/${CONTRACT_ADDRESS}`;
 
@@ -35,7 +36,7 @@ function App() {
   const [mintAmount, setMintQuantity] = useState(1);
 
   const calculateTotalPrice = () => {
-    const pricePerToken = 1.0; // Adjust the price per token as needed
+    const pricePerToken = 2500; // Adjust the price per token as needed
     return ethers.utils.parseEther((mintAmount * pricePerToken).toString());
   };
 
