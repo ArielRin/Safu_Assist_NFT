@@ -12,7 +12,7 @@ FINAL Contract: https://scan.maxxchain.org/address/0x3121ff90D86128b0dCd2524469f
 
 https://6554726575121d6ec0923cf0--rainbow-figolla-55b612.netlify.app/
 
-### todo
+## To Do
 Styling Dapp
 Layouts
 Icons
@@ -21,3 +21,12 @@ Set final price at 2500 from test price of 1
 Update with Live Contract
 Link Domain
 Go Live
+
+
+## Run locally
+
+```bash
+$ yarn
+
+$ yarn dev
+```
