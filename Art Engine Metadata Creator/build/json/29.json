@@ -2,9 +2,9 @@
   "name": "SafuMaxx Reward NFT #29",
   "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
   "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/29.png",
-  "dna": "d2efd0939663148610b5d96b50d856c26c7f8d17",
+  "dna": "3f268daf9bdfbcea39efa5b22de765af59e48f55",
   "edition": 29,
-  "date": 1700012450747,
+  "date": 1700015406275,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "Image",
-      "value": "SafuMaxxRewardNFT1"
+      "value": "SafuMaxxRewardNFT2"
     },
     {
       "trait_type": "Edition",
-      "value": "Original"
+      "value": "Silver"
     }
   ],
   "compiler": "ArielRyn Art Generation"
