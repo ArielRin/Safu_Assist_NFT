@@ -12,7 +12,7 @@ import backgroundGif from './nebulosa.jpg';
 import yourImage from './logo.png'; // Import your image file
 
 // const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27'; // test address 1 pwr ea
-const CONTRACT_ADDRESS = '0x3121ff90D86128b0dCd2524469f0Aa3E1D5FdB63'; // final address 2500 pwr ea
+const CONTRACT_ADDRESS = '0x3121ff90D86128b0dCd2524469f0Aa3E1D5FdB63'; // final address 2500 pwr ea LIVE
 const getExplorerLink = () => `https://scan.maxxchain.org/token/${CONTRACT_ADDRESS}`;
 const getOpenSeaURL = () => `https://testnets.opensea.io/assets/goerli/${CONTRACT_ADDRESS}`;
 
