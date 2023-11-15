@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"safumaxrewardsnft.sol": "Strings"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"safumaxrewardsnft.sol": {
+			"keccak256": "0xae4ed8f12f9c1261be9d78850a4eaf977b705700cde03f65e4afa0d024b66917",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d790d6433bf1026b26667142d3f5a2cdd6b8a8155b364739d65a860bff47360a",
+				"dweb:/ipfs/QmSFW7RSuNkJeN65yABagqmWEXBkSH8xxnJVtNGndPettS"
+			]
+		}
+	},
+	"version": 1
+}
