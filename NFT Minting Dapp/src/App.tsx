@@ -8,8 +8,10 @@ import { useAccount, useContractWrite, useContractRead } from 'wagmi';
 import abiFile from './abiFile.json';
 import './styles.css'; // Reference to the external CSS file
 
-const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27';
+import backgroundGif from './bkg2.gif';
+import yourImage from './logo.png'; // Import your image file
 
+const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27';
 const getExplorerLink = () => `https://scan.maxxchain.org/token/${CONTRACT_ADDRESS}`;
 const getOpenSeaURL = () => `https://testnets.opensea.io/assets/goerli/${CONTRACT_ADDRESS}`;
 
@@ -72,31 +74,65 @@ function App() {
       <ConnectButton />
     </div>
   </header>
-  <div className="wrapper" style={{ backgroundColor: 'black', color: 'white' }}>
-        <Container className="container" paddingY="10">
+
+
+  <div className="wrapper" style={{
+    backgroundColor: 'black',
+    color: 'white',
+    backgroundImage: `url(${backgroundGif})`,
+    backgroundSize: 'cover',
+        }}>
+        <div className="mainboxwrapper" >
+
+        <Container className="container" paddingY="4">
           <div>
+          <div style={{ display: 'flex', justifyContent: 'center' }}>
+            <img src={yourImage} alt="Your Alt Text" style={{ width: '18%', height: 'auto' }} />
+          </div>
+
+                                <Text className="ttitle" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
+                                  SafuMaxx Reward NFT
+                                </Text>
             <Text className="paragraph1" style={{ textAlign: 'center', fontWeight: 'bold' }}>
-              SafuMaxx Reward NFTs represent a limited collection of 200 unique digital assets, each priced at 2500 PWR. These non-fungible tokens offer a distinctive opportunity for collectors to own a piece of the SafuMaxx legacy. The collection boasts one legendary NFT, adding an element of exclusivity and rarity to the series. With only a limited quantity available, each SafuMaxx Reward NFT becomes a coveted digital treasure, backed by the blockchain technology that ensures authenticity and scarcity.
+              SafuMaxx Reward NFTs , each priced at 2500 PWR. These non-fungible tokens offer a distinctive opportunity for collectors to own a piece of the SafuMaxx legacy.
             </Text>
+            <Text className="paragraph1" style={{ textAlign: 'center', fontWeight: 'bold' }}>
+              The collection boasts one legendary NFT, adding an element of exclusivity and rarity to the series.
+            </Text>
+              <Text className="paragraph1" style={{ textAlign: 'center', fontWeight: 'bold' }}>
+                With only a limited quantity available, each SafuMaxx Reward NFT becomes a coveted digital treasure, backed by the blockchain technology that ensures authenticity and scarcity.
+              </Text>
 
             <Text className="contractaddr" style={{ padding: '10px', textAlign: 'center', fontWeight: 'bold' }}>
               <Link
                 isExternal
                 href={getExplorerLink()}
-                color='blue'
               >
                 {CONTRACT_ADDRESS}
               </Link>
             </Text>
           </div>
 
+
+                    <Text className="supplynft" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
+                        Minted 0 / 200
+                    </Text>
+
+                      <Text className="pricecost" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
+                        2,500 PWR
+                      </Text>
+                      <Text className="contractaddr" style={{ textAlign: 'center', fontWeight: 'bold' }}>
+                        max 5 per transaction, no limit on quantity
+                      </Text>
+
+
           <Box marginTop='4' display='flex' alignItems='center' justifyContent='center'>
             <Button
               marginTop='1'
               textColor='white'
-              bg='blue.500'
+              bg='orange.500'
               _hover={{
-                bg: 'blue.700',
+                bg: 'orange.700',
               }}
               onClick={handleDecrement}
               disabled={!isConnected || mintLoading || mintAmount === 1}
@@ -109,9 +145,9 @@ function App() {
             <Button
               marginTop='1'
               textColor='white'
-              bg='blue.500'
+              bg='orange.500'
               _hover={{
-                bg: 'blue.700',
+                bg: 'orange.700',
               }}
               onClick={handleIncrement}
               disabled={!isConnected || mintLoading || mintAmount === 5}
@@ -121,9 +157,6 @@ function App() {
           </Box>
 
 
-            <Text className="pricecost" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
-              2,500 PWR
-            </Text>
 
           <Box marginTop='2' display='flex' alignItems='center' justifyContent='center'>
             <Button
@@ -131,9 +164,9 @@ function App() {
               marginTop='6'
               onClick={onMintClick}
               textColor='white'
-              bg='blue.500'
+              bg='orange.500'
               _hover={{
-                bg: 'blue.700',
+                bg: 'orange.700',
               }}
             >
               {isConnected ? `Mint ${mintAmount} Now` : ' Mint on (Connect Wallet)'}
@@ -161,7 +194,11 @@ function App() {
               </Link>
             </Text>
           )}
+            <Text className="paragraph1" style={{ color: 'white', padding: '20px', textAlign: 'center' }}>
+              &copy; 2023 SafuMaxx. All rights reserved.
+            </Text>
         </Container>
+      </div>
       </div>
     </>
   );
