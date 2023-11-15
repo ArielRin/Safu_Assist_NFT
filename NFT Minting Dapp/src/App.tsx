@@ -8,7 +8,7 @@ import { useAccount, useContractWrite, useContractRead } from 'wagmi';
 import abiFile from './abiFile.json';
 import './styles.css'; // Reference to the external CSS file
 
-import backgroundGif from './bkg2.gif';
+import backgroundGif from './nebulosa.jpg';
 import yourImage from './logo.png'; // Import your image file
 
 // const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27'; // test address 1 pwr ea
@@ -131,9 +131,9 @@ function App() {
             <Button
               marginTop='1'
               textColor='white'
-              bg='orange.500'
+              bg='blue.500'
               _hover={{
-                bg: 'orange.700',
+                bg: 'blue.700',
               }}
               onClick={handleDecrement}
               disabled={!isConnected || mintLoading || mintAmount === 1}
@@ -146,9 +146,9 @@ function App() {
             <Button
               marginTop='1'
               textColor='white'
-              bg='orange.500'
+              bg='blue.500'
               _hover={{
-                bg: 'orange.700',
+                bg: 'blue.700',
               }}
               onClick={handleIncrement}
               disabled={!isConnected || mintLoading || mintAmount === 5}
@@ -165,9 +165,9 @@ function App() {
               marginTop='6'
               onClick={onMintClick}
               textColor='white'
-              bg='orange.500'
+              bg='blue.500'
               _hover={{
-                bg: 'orange.700',
+                bg: 'blue.700',
               }}
             >
               {isConnected ? `Mint ${mintAmount} Now` : ' Mint on (Connect Wallet)'}
