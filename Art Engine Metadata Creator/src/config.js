@@ -11,7 +11,7 @@ const baseUri = "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98";
 
 const solanaMetadata = {
   symbol: "SMR5",
-  seller_fee_basis_points: 300, // Define how much % you want from secondary market sales 1000 = 10%
+  seller_fee_basis_points: 500, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://safumaxx.com/",
   creators: [
     {
