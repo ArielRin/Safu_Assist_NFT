@@ -5,17 +5,17 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
-const baseUri = "ipfs://NewUriToReplace";
+const namePrefix = "Lastman Holding";
+const description = "LastManHolding NFT will reward a random existing holder with 10% of the purchase price of last NFT sold. Every NFT purchased will reward a current holder randomly until there is only one left. The last NFT sold will earn a total of 10% (1.5BNB) of the entire treasury, total value of all the NFTS sold. Pricing is currently at base cost of 0.15BNB. Get in early to have more chances to be rewarded and remember! You can always have more than one, which means more chances for rewards. 1 Lastman NFT per transaction with no cap on qty per wallet. Enjoy the Ride!!";
+const baseUri = "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98";
 
 const solanaMetadata = {
-  symbol: "YC",
-  seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  symbol: "RACE1",
+  seller_fee_basis_points: 300, // Define how much % you want from secondary market sales 1000 = 10%
+  external_url: "https://lastmanstanding.info/",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "0x102EE4DdeB7A95Ef9aaAecc14AB93363E3D9B5d5",
       share: 100,
     },
   ],
@@ -24,15 +24,11 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 100,
     layersOrder: [
       { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "Image" },
+      { name: "Edition" },
     ],
   },
 ];
