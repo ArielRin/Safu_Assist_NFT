@@ -1,0 +1,58 @@
+/* styles.css */
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #222; /* Change the background color as needed */
+  color: white;
+}
+
+.header-text {
+  font-size: 22px; /* Adjust the font size as needed */
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.bodywrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  width: 80%;
+  max-width: 600px; /* Adjust the maximum width as needed */
+  justify-content: center;
+  align-items: center;
+}
+
+.connect-button {
+  margin-left: auto;
+}
+
+/* Add any additional styles here */
+
+.contractaddr {
+  margin-top: 8px; /* Adjust the margin as needed */
+  font-size: 12px; /* Adjust the font size as needed */
+}
+.paragraph1 {
+  margin-top: 8px; /* Adjust the margin as needed */
+  font-size: 14px; /* Adjust the font size as needed */
+}
+.pricecost {
+  margin-top: 20px; /* Adjust the margin as needed */
+  font-size: 24px; /* Adjust the font size as needed */
+}

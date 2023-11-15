@@ -1,20 +1,17 @@
-import {
-  Button,
-  Container,
-  Text,
-  Box,
-  Link,
-} from '@chakra-ui/react';
+// App.js
+
+import React, { useEffect, useState } from 'react';
+import { Button, Container, Text, Box, Link } from '@chakra-ui/react';
 import { ConnectButton } from '@rainbow-me/rainbowkit';
 import { ethers } from 'ethers';
-import { useEffect, useState } from 'react';
 import { useAccount, useContractWrite, useContractRead } from 'wagmi';
 import abiFile from './abiFile.json';
+import './styles.css'; // Reference to the external CSS file
 
 const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27';
 
 const getExplorerLink = () => `https://scan.maxxchain.org/token/${CONTRACT_ADDRESS}`;
-const getOpenSeaURL = (tokenId) => `https://testnets.opensea.io/assets/goerli/${CONTRACT_ADDRESS}/${tokenId}`;
+const getOpenSeaURL = () => `https://testnets.opensea.io/assets/goerli/${CONTRACT_ADDRESS}`;
 
 function App() {
   const contractConfig = {
@@ -22,25 +19,7 @@ function App() {
     contractInterface: abiFile,
   };
 
-  const { read: fetchTotalSupply } = useContractRead({
-    ...contractConfig,
-    functionName: 'totalSupply',
-  });
 
-  const [totalSupply, setTotalSupply] = useState(null);
-
-  useEffect(() => {
-    const getTotalSupply = async () => {
-      try {
-        const supply = await fetchTotalSupply();
-        setTotalSupply(supply.toString());
-      } catch (error) {
-        console.error('Error fetching total supply:', error);
-      }
-    };
-
-    getTotalSupply();
-  }, [fetchTotalSupply]);
 
   const [imgURL, setImgURL] = useState('');
   const { writeAsync: mint, error: mintError } = useContractWrite({
@@ -77,9 +56,6 @@ function App() {
 
       await tx.wait(); // Wait for the transaction to be mined
 
-      // Assume the tokenId is returned directly from the contract
-      const tokenId = ''; // Replace with the actual way you get the tokenId
-      setMintedTokenId(tokenId);
     } catch (error) {
       console.error(error);
     } finally {
@@ -88,98 +64,106 @@ function App() {
   };
 
   return (
-    <Container paddingY='10'>
+    <>
+
+    <header>
+    <Text className="header-text">SafuMaxx Reward NFT</Text>
+    <div className="connect-button">
       <ConnectButton />
+    </div>
+  </header>
+  <div className="wrapper" style={{ backgroundColor: 'black', color: 'white' }}>
+        <Container className="container" paddingY="10">
+          <div>
+            <Text className="paragraph1" style={{ textAlign: 'center', fontWeight: 'bold' }}>
+              SafuMaxx Reward NFTs represent a limited collection of 200 unique digital assets, each priced at 2500 PWR. These non-fungible tokens offer a distinctive opportunity for collectors to own a piece of the SafuMaxx legacy. The collection boasts one legendary NFT, adding an element of exclusivity and rarity to the series. With only a limited quantity available, each SafuMaxx Reward NFT becomes a coveted digital treasure, backed by the blockchain technology that ensures authenticity and scarcity.
+            </Text>
 
-      <Text marginTop='4'>SafuMaxx Reward NFT</Text>
-      <Text marginTop='4'>Only 200 for purchase</Text>
-      <Text marginTop='4'>2500PWR per NFT</Text>
-      <Text marginTop='4'>Total Supply: {totalSupply}</Text>
+            <Text className="contractaddr" style={{ padding: '10px', textAlign: 'center', fontWeight: 'bold' }}>
+              <Link
+                isExternal
+                href={getExplorerLink()}
+                color='blue'
+              >
+                {CONTRACT_ADDRESS}
+              </Link>
+            </Text>
+          </div>
 
-      <Text marginTop='4'>
-        {' '}
-        <Link
-          isExternal
-          href={getExplorerLink()}
-          color='blue'
-          textDecoration='underline'
-        >
-          {CONTRACT_ADDRESS}
-        </Link>
-      </Text>
+          <Box marginTop='4' display='flex' alignItems='center' justifyContent='center'>
+            <Button
+              marginTop='1'
+              textColor='white'
+              bg='blue.500'
+              _hover={{
+                bg: 'blue.700',
+              }}
+              onClick={handleDecrement}
+              disabled={!isConnected || mintLoading || mintAmount === 1}
+            >
+              -
+            </Button>
+            <Text marginX='3' textAlign='center' fontSize='lg'>
+              {mintAmount}
+            </Text>
+            <Button
+              marginTop='1'
+              textColor='white'
+              bg='blue.500'
+              _hover={{
+                bg: 'blue.700',
+              }}
+              onClick={handleIncrement}
+              disabled={!isConnected || mintLoading || mintAmount === 5}
+            >
+              +
+            </Button>
+          </Box>
 
-      <Box marginTop='4' display='flex' alignItems='center'>
-        <Button
-                  marginTop='6'
-                  textColor='white'
-                  bg='blue.500'
-                  _hover={{
-                    bg: 'blue.700',
-                  }}
-          onClick={handleDecrement}
-          disabled={!isConnected || mintLoading || mintAmount === 1}
-        >
-          -
-        </Button>
 
-        <Text marginX='4' textAlign='center' fontSize='lg'>
-          {mintAmount}
-        </Text>
+            <Text className="pricecost" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
+              2,500 PWR
+            </Text>
 
-        <Button
-
-          marginTop='6'
-          textColor='white'
-          bg='blue.500'
-          _hover={{
-            bg: 'blue.700',
-          }}
-
-          onClick={handleIncrement}
-          disabled={!isConnected || mintLoading || mintAmount === 5}
-        >
-          +
-        </Button>
-      </Box>
-
-      <Button
-        disabled={!isConnected || mintLoading}
-        marginTop='6'
-        onClick={onMintClick}
-        textColor='white'
-        bg='blue.500'
-        _hover={{
-          bg: 'blue.700',
-        }}
-      >
-        {isConnected ? `Mint ${mintAmount} Now` : ' Mint on (Connect Wallet)'}
-      </Button>
-
-      {mintError && (
-        <Text marginTop='4'>⛔️ Mint unsuccessful! Error message:</Text>
-      )}
-
-      {mintError && (
-        <pre style={{ marginTop: '8px', color: 'red' }}>
-          <code>{JSON.stringify(mintError, null, ' ')}</code>
-        </pre>
-      )}
-      {mintLoading && <Text marginTop='2'>Minting... please wait</Text>}
-
-      {mintedTokenId && (
-        <Text marginTop='2'>
-          Mint successful! You can view your NFT{' '}
-          <Link
-            isExternal
-            href={getOpenSeaURL(mintedTokenId)}
-            color='blue'
-            textDecoration='underline'
-          >
-            Soon!
-          </Link>
-        </Text>
-      )}
-    </Container>
+          <Box marginTop='2' display='flex' alignItems='center' justifyContent='center'>
+            <Button
+              disabled={!isConnected || mintLoading}
+              marginTop='6'
+              onClick={onMintClick}
+              textColor='white'
+              bg='blue.500'
+              _hover={{
+                bg: 'blue.700',
+              }}
+            >
+              {isConnected ? `Mint ${mintAmount} Now` : ' Mint on (Connect Wallet)'}
+            </Button>
+          </Box>
+          {mintError && (
+            <Text marginTop='4'>⛔️ Mint unsuccessful! Error message:</Text>
+          )}
+          {mintError && (
+            <pre style={{ marginTop: '8px', color: 'red' }}>
+              <code>{JSON.stringify(mintError, null, ' ')}</code>
+            </pre>
+          )}
+          {mintLoading && <Text marginTop='2'>Minting... please wait</Text>}
+          {mintedTokenId && (
+            <Text marginTop='2'>
+              Mint successful! You can view your NFT{' '}
+              <Link
+                isExternal
+                href={getOpenSeaURL()}
+                color='blue'
+                textDecoration='underline'
+              >
+                Soon!
+              </Link>
+            </Text>
+          )}
+        </Container>
+      </div>
+    </>
   );
 }
 
