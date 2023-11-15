@@ -5,3 +5,5 @@
  https://scan.maxxchain.org/address/0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27/contracts#address-tabs
 
 current base uri https://raw.githubusercontent.com/ArielRin/Safu_Assist_NFT/master/Art%20Engine%20Metadata%20Creator/build/json/
+
+FINAL Contract: https://scan.maxxchain.org/address/0x3121ff90D86128b0dCd2524469f0Aa3E1D5FdB63/contracts#address-tabs
