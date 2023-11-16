@@ -10,7 +10,7 @@ FINAL Contract: https://scan.maxxchain.org/address/0x3121ff90D86128b0dCd2524469f
 
 ## Test Dapp
 
-https://6554726575121d6ec0923cf0--rainbow-figolla-55b612.netlify.app/
+https://rainbow-figolla-55b612.netlify.app/
 
 ## To Do
 Styling Dapp
