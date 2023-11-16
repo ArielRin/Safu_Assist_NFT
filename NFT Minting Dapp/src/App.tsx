@@ -9,7 +9,7 @@ import abiFile from './abiFile.json';
 import './styles.css'; // Reference to the external CSS file
 
 import backgroundGif from './nebulosa.jpg';
-import yourImage from './logo.png'; // Import your image file
+import SafuLogo1 from './logo.png'; // Import your image file
 
 // const CONTRACT_ADDRESS = '0xfA0644C86D8bC887496ea2A53aB470f6E85A0f27'; // test address 1 pwr ea
 const CONTRACT_ADDRESS = '0x3121ff90D86128b0dCd2524469f0Aa3E1D5FdB63'; // final address 2500 pwr ea LIVE
@@ -66,6 +66,54 @@ function App() {
     }
   };
 
+            //add to Line 175 <Box marginTop='4' display='flex' alignItems='center' justifyContent='center'>
+            //   <Button
+            //     marginTop='1'
+            //     textColor='white'
+            //     bg='blue.500'
+            //     _hover={{
+            //       bg: 'blue.700',
+            //     }}
+            //     onClick={handleDecrement}
+            //     disabled={!isConnected || mintLoading || mintAmount === 1}
+            //   >
+            //     -
+            //   </Button>
+            //   <Text marginX='3' textAlign='center' fontSize='lg'>
+            //     {mintAmount}
+            //   </Text>
+            //   <Button
+            //     marginTop='1'
+            //     textColor='white'
+            //     bg='blue.500'
+            //     _hover={{
+            //       bg: 'blue.700',
+            //     }}
+            //     onClick={handleIncrement}
+            //     disabled={!isConnected || mintLoading || mintAmount === 5}
+            //   >
+            //     +
+            //   </Button>
+            // </Box>
+            //
+            //
+            //
+            // <Box marginTop='2' display='flex' alignItems='center' justifyContent='center'>
+            //   <Button
+            //     disabled={!isConnected || mintLoading}
+            //     marginTop='6'
+            //     onClick={onMintClick}
+            //     textColor='white'
+            //     bg='blue.500'
+            //     _hover={{
+            //       bg: 'blue.700',
+            //     }}
+            //   >
+            //     {isConnected ? `Mint ${mintAmount} Now` : ' Mint on (Connect Wallet)'}
+            //   </Button>
+            // </Box>
+
+
   return (
     <>
 
@@ -88,7 +136,7 @@ function App() {
         <Container className="container" paddingY="4">
           <div>
           <div style={{ display: 'flex', justifyContent: 'center' }}>
-            <img src={yourImage} alt="Your Alt Text" style={{ width: '18%', height: 'auto' }} />
+            <img src={SafuLogo1} alt="SaffuMaxx Logo" style={{ width: '18%', height: 'auto' }} />
           </div>
 
                                 <Text className="ttitle" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
@@ -114,10 +162,9 @@ function App() {
             </Text>
           </div>
 
-
-                    <Text className="supplynft" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
-                        Minted 0 / 200
-                    </Text>
+          <Text className="supplynft" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
+             Minted 200 / 200 SOLD OUT!
+          </Text>
 
                       <Text className="pricecost" style={{ textAlign: 'center', fontWeight: 'bolder' }}>
                         2,500 PWR
@@ -127,52 +174,13 @@ function App() {
                       </Text>
 
 
-          <Box marginTop='4' display='flex' alignItems='center' justifyContent='center'>
-            <Button
-              marginTop='1'
-              textColor='white'
-              bg='blue.500'
-              _hover={{
-                bg: 'blue.700',
-              }}
-              onClick={handleDecrement}
-              disabled={!isConnected || mintLoading || mintAmount === 1}
-            >
-              -
-            </Button>
-            <Text marginX='3' textAlign='center' fontSize='lg'>
-              {mintAmount}
-            </Text>
-            <Button
-              marginTop='1'
-              textColor='white'
-              bg='blue.500'
-              _hover={{
-                bg: 'blue.700',
-              }}
-              onClick={handleIncrement}
-              disabled={!isConnected || mintLoading || mintAmount === 5}
-            >
-              +
-            </Button>
-          </Box>
 
 
 
-          <Box marginTop='2' display='flex' alignItems='center' justifyContent='center'>
-            <Button
-              disabled={!isConnected || mintLoading}
-              marginTop='6'
-              onClick={onMintClick}
-              textColor='white'
-              bg='blue.500'
-              _hover={{
-                bg: 'blue.700',
-              }}
-            >
-              {isConnected ? `Mint ${mintAmount} Now` : ' Mint on (Connect Wallet)'}
-            </Button>
-          </Box>
+
+
+
+
           {mintError && (
             <Text marginTop='4'>⛔️ Mint unsuccessful! Error message:</Text>
           )}
