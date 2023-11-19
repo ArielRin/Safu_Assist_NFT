@@ -1,0 +1,39 @@
+{
+  "name": "Maximus Walnuts V.I.P NFT #422",
+  "description": "Maximus Walnuts V.I.P NFT. 500 in total, with 10 Super NFT's up for grabs. ",
+  "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/422.png",
+  "dna": "f1185dca13c9cc3c564dff78cc3c380abbe9beff",
+  "edition": 422,
+  "date": 1700395537274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Image",
+      "value": "MaximusWalnut"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Nuts",
+      "value": "LVL 3"
+    },
+    {
+      "trait_type": "Roots",
+      "value": "LVL 2"
+    },
+    {
+      "trait_type": "Leaves",
+      "value": "LVL 4"
+    },
+    {
+      "trait_type": "Eats",
+      "value": "LVL 4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

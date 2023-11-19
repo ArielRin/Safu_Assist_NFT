@@ -1,10 +1,10 @@
 {
-  "name": "SafuMaxx Reward NFT #191",
-  "description": "SafuMaxx Reward NFT. 200 in total, with 1 legendary NFT up for grabs. Visit safumaxx.com for all the up to date knowledge of SafuMaxx.",
-  "image": "https://raw.githubusercontent.com/ArielRin/Safu_Assist_NFT/master/Art%20Engine%20Metadata%20Creator/build/images/191.png",
-  "dna": "b44859f1a5c8be8f8c7a26c66641738b72772e21",
+  "name": "Maximus Walnuts V.I.P NFT #191",
+  "description": "Maximus Walnuts V.I.P NFT. 500 in total, with 10 Super NFT's up for grabs. ",
+  "image": "ipfs://QmcCPpWTL4FxwqXPJLPqRxBiucUd4ZtEtN2tJN7F4mZT98/191.png",
+  "dna": "2fe4c5a7f1a20c92f611383ccf55d6684adcd2c2",
   "edition": 191,
-  "date": 1700015430523,
+  "date": 1700395522287,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,12 +12,28 @@
     },
     {
       "trait_type": "Image",
-      "value": "SafuMaxxRewardNFT1"
+      "value": "MaximusWalnut"
     },
     {
       "trait_type": "Edition",
-      "value": "Silver"
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Nuts",
+      "value": "LVL 2"
+    },
+    {
+      "trait_type": "Roots",
+      "value": "LVL 5"
+    },
+    {
+      "trait_type": "Leaves",
+      "value": "LVL 5"
+    },
+    {
+      "trait_type": "Eats",
+      "value": "LVL 4"
     }
   ],
-  "compiler": "ArielRyn Art Generation 2023"
+  "compiler": "HashLips Art Engine"
 }
