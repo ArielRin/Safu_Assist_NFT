@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import "@rainbow-me/rainbowkit/styles.css";
-import { getDefaultWallets, RainbowKitProvider } from "@rainbow-me/rainbowkit";
+import { getDefaultWallets, RainbowKitProvider, darkTheme } from "@rainbow-me/rainbowkit";
 import { chain, configureChains, createClient, WagmiConfig, Chain } from "wagmi"; // Import 'Chain' from 'wagmi'
 import { jsonRpcProvider } from "wagmi/providers/jsonRpc";
 import { publicProvider } from "wagmi/providers/public";
@@ -18,21 +18,38 @@ const maxxChain: Chain = {
     symbol: 'PWR',
   },
   rpcUrls: {
-    default: 'https://rpc.maxxchain.org',
+    default: 'https://mainrpc4.maxxchain.org/',
   },
   blockExplorers: {
-    default: { name: 'Maxx Explorer', url: 'https://scan.maxxchain.org' },
+    default: { name: 'Maxx Explorer', url: 'https://scan.maxxchain.org/' },
+  },
+  testnet: false,
+};
+const bsc: Chain = {
+  id: 56, // BSC chain ID
+  name: 'Binance Smart Chain',
+  network: 'bsc',
+  nativeCurrency: {
+    decimals: 18,
+    name: 'Binance Coin',
+    symbol: 'BNB',
+  },
+  rpcUrls: {
+    default: 'https://bsc-dataseed.binance.org/',
+  },
+  blockExplorers: {
+    default: { name: 'BscScan', url: 'https://bscscan.com/' },
   },
   testnet: false,
 };
 
 const { chains, provider } = configureChains(
-  [maxxChain],
+  [maxxchain],
   [
     jsonRpcProvider({
       rpc: () => {
         return {
-          http: "https://rpc.maxxchain.org",
+          http: "https://mainrpc4.maxxchain.org/",
         };
       },
     }),
@@ -41,12 +58,12 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-  appName: "SafuMaxx Reward NFT",
+  appName: "Staking Locks Dapp 2024",
   chains,
 });
 
 const wagmiClient = createClient({
-  autoConnect: false,
+  autoConnect: true,
   connectors,
   provider,
 });
@@ -55,7 +72,16 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <ChakraProvider>
       <WagmiConfig client={wagmiClient}>
-        <RainbowKitProvider chains={chains}>
+        <RainbowKitProvider modalSize="compact" chains={chains}
+        theme={darkTheme({
+              accentColor: 'blue.500',
+              accentColorForeground: 'white',
+              borderRadius: 'small',
+              fontStack: 'system',
+              overlayBlur: 'small',
+            })}
+
+        >
           <App />
         </RainbowKitProvider>
       </WagmiConfig>
